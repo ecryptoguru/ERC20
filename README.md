@@ -1,2 +1,2 @@
 # ERC20
-Create ERC20 tokens
+Create ERC20 tokens using open zeppelin libraries
